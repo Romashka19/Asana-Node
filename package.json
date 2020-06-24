@@ -1,0 +1,20 @@
+{
+  "name": "asanius-master",
+  "version": "1.0.0",
+  "main": "public/scriptV2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node serverV2.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^2.1.0",
+    "nodemon": "^2.0.4",
+    "sql": "^0.78.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
